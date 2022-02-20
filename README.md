@@ -5,3 +5,4 @@ machine learning/Artificial Intelligence
 Date :19feb2022
 update 5 done
 updateing readme 20feb
+check out message 20feb
